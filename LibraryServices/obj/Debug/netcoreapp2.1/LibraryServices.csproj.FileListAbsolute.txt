@@ -1,0 +1,12 @@
+G:\my_projects\Web-Apps\AspNetCore_Projects\Library-Management\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.deps.json
+G:\my_projects\Web-Apps\AspNetCore_Projects\Library-Management\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.dll
+G:\my_projects\Web-Apps\AspNetCore_Projects\Library-Management\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.pdb
+G:\my_projects\Web-Apps\AspNetCore_Projects\Library-Management\LibraryServices\bin\Debug\netcoreapp2.1\LibraryData.dll
+G:\my_projects\Web-Apps\AspNetCore_Projects\Library-Management\LibraryServices\bin\Debug\netcoreapp2.1\LibraryData.pdb
+G:\my_projects\Web-Apps\AspNetCore_Projects\Library-Management\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csprojAssemblyReference.cache
+G:\my_projects\Web-Apps\AspNetCore_Projects\Library-Management\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csproj.CoreCompileInputs.cache
+G:\my_projects\Web-Apps\AspNetCore_Projects\Library-Management\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.AssemblyInfoInputs.cache
+G:\my_projects\Web-Apps\AspNetCore_Projects\Library-Management\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.AssemblyInfo.cs
+G:\my_projects\Web-Apps\AspNetCore_Projects\Library-Management\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csproj.CopyComplete
+G:\my_projects\Web-Apps\AspNetCore_Projects\Library-Management\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.dll
+G:\my_projects\Web-Apps\AspNetCore_Projects\Library-Management\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.pdb

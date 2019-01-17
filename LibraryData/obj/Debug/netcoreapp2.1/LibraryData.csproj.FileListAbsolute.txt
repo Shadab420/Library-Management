@@ -1,0 +1,11 @@
+G:\my_projects\Web-Apps\AspNetCore_Projects\Library-Management\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.deps.json
+G:\my_projects\Web-Apps\AspNetCore_Projects\Library-Management\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.dll
+G:\my_projects\Web-Apps\AspNetCore_Projects\Library-Management\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.csproj.CoreCompileInputs.cache
+G:\my_projects\Web-Apps\AspNetCore_Projects\Library-Management\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.AssemblyInfoInputs.cache
+G:\my_projects\Web-Apps\AspNetCore_Projects\Library-Management\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.AssemblyInfo.cs
+G:\my_projects\Web-Apps\AspNetCore_Projects\Library-Management\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.runtimeconfig.json
+G:\my_projects\Web-Apps\AspNetCore_Projects\Library-Management\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.runtimeconfig.dev.json
+G:\my_projects\Web-Apps\AspNetCore_Projects\Library-Management\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.pdb
+G:\my_projects\Web-Apps\AspNetCore_Projects\Library-Management\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.dll
+G:\my_projects\Web-Apps\AspNetCore_Projects\Library-Management\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.pdb
+G:\my_projects\Web-Apps\AspNetCore_Projects\Library-Management\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.csprojAssemblyReference.cache
